@@ -1,0 +1,7 @@
+Django>=5.2.7
+djangorestframework
+django-cors-headers
+tensorflow
+pillow
+psycopg2-binary
+gunicorn
